@@ -32,8 +32,6 @@ i bought most of them from ebay:
 
 ![architecture](https://cloud.githubusercontent.com/assets/1287098/17440267/980af4aa-5b34-11e6-8754-a25d3d650878.png)
 
-![architecture](https://cloud.githubusercontent.com/assets/1287098/17440267/980af4aa-5b34-11e6-8754-a25d3d650878.png)
-
 ![image](https://cloud.githubusercontent.com/assets/1287098/17440319/c095c4d6-5b34-11e6-8c36-c198ed4fd6b9.png)
 
 ![image](https://cloud.githubusercontent.com/assets/1287098/17440339/d62981fc-5b34-11e6-9079-8ceb1b9d507b.png)
